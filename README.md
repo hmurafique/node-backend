@@ -15,9 +15,9 @@ backend/
 │ ├── Dockerfile
 │ └── nginx.conf
 └── node-backend/ # Application Source Code
-├── package.json
-├── package-lock.json
-└── server.js
+  ├── package.json
+  ├── package-lock.json
+  └── server.js
 ```
 
 ---
